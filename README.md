@@ -115,3 +115,25 @@ Card Number : 4242 4242 4242 4242
 Expiry      : 12/29
 CVC         : 123
 ```
+
+## Demo Credentials
+
+### 👑 Admin Account
+| Field | Value |
+|-------|-------|
+| Email | `admin@serviceapp.com` |
+| Password | `admin123` |
+| Access | Admin Dashboard, Manage Services, All Bookings |
+
+### 👤 Test User Account
+| Field | Value |
+|-------|-------|
+| Email | Register karo `/register` pe |
+| Password | Apni marzi ka |
+| Access | Browse Services, Book & Pay |
+
+> **Note:** Admin account create karne ke liye backend mein ye command run karo:
+> ```bash
+> cd backend
+> node src/scripts/createAdmin.js
+> ```
