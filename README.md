@@ -1,5 +1,12 @@
 # 🏠 ServiceApp — Home Services Booking Platform
 
+## 🚀 Live Demo
+
+| | URL |
+|--|-----|
+| **Frontend** | [https://service-app-flax.vercel.app](https://service-app-flax.vercel.app) |
+| **Backend API** | [https://serviceapp-llcu.onrender.com/api](https://serviceapp-llcu.onrender.com/api) |
+
 A full-stack home services booking application with Stripe payment integration.
 
 ## Tech Stack
