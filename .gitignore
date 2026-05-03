@@ -1,0 +1,6 @@
+# Root level
+node_modules/
+.env
+.env.local
+.env.production
+*.log
